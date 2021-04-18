@@ -8,7 +8,7 @@ export default props =>
         <main className="content container-fluid">
             <div className="p-3 mt-3">
                 {props.children}
-                a
+                
             </div>
         </main>
     </React.Fragment>
